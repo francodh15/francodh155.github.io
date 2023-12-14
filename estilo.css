@@ -24,7 +24,7 @@ body {
     height: 50px;
 }
 .container-fluid{
-    background-color: #e3f2fd;
+    background-color: #0d6efd;
     padding: 0%;
     height: 100%;
     width: 100%;
@@ -47,6 +47,8 @@ body {
 }
 .card-group .card .card-body{
     border-radius: 3px;
+    width: 100%;
+    height: 100%;
 }
 .card-group{
     margin-top: 5px;
@@ -90,3 +92,36 @@ a:hover{
 .final-footer{
     background-color: black;
 }
+.desarrollo{
+    margin: 5px;
+}
+.foto-inicio{
+    margin: 5px;
+}
+.card-group{
+    margin: 5px;
+}
+
+.alejo-not{
+    margin: 15px;
+}
+
+.fotovuelta-1{
+    margin: 5px;
+}
+.fotovuelta-2 {
+    margin: 5px;
+}
+
+.noticia3 {
+    margin: 5px;
+}
+.noticia3 .card .card-body {
+    background-color: rgb(255, 255, 255);
+}
+
+.fernandoxco .card-group .card img{
+    height: 500px;
+}
+
+
